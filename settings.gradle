@@ -1,0 +1,2 @@
+rootProject.name='AndroidSoketIO'
+include ':app'
